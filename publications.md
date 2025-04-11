@@ -1,52 +1,25 @@
 ---
 layout: page
 title: "Publications"
-share-title: "Hypatia of Alexandria - Publications"
+share-title: "Sara Mascia - Publications"
 permalink: /Publications/
 ---
 
-# Selected Publications
+# Publications
 
-Below is a curated list my most relevant works, reflecting my contributions to mathematics, astronomy, and philosophy.
-
----
-
-### 📘 *Commentary on Diophantus’ Arithmetica*  
-**c. 400 CE**  
-A detailed interpretation and teaching guide to Diophantus’ pioneering algebraic text. Hypatia’s notes likely made the work more accessible to students, emphasizing arithmetic methods and problem-solving.  
-**DOI:** [10.1234/hypatia.arith.0400](https://doi.org/10.1234/hypatia.arith.0400)
+You can find a comprehensive list of my scientific work through the following resources:
 
 ---
 
-### 📗 *Commentary on Ptolemy’s Almagest*  
-**c. 395 CE**  
-An annotated version of Claudius Ptolemy’s magnum opus on geocentric astronomy. Hypatia clarified complex planetary models and may have improved pedagogical diagrams used in lectures.  
-**DOI:** [10.1234/hypatia.almagest.0395](https://doi.org/10.1234/hypatia.almagest.0395)
+📄 **[Download my CV (PDF)](/assets/files/SaraMascia_CV.pdf)**  
+An up-to-date summary of my academic background, research, and teaching experience.
 
----
+📘 **[Read my PhD Thesis (PDF)](/assets/files/SaraMascia_PhDThesis.pdf)**  
+*Tracing the properties of Lyman continuum emitting galaxies over cosmic epochs*  
+University of [your institution], 2025
 
-### 📙 *On the Conics of Apollonius* (Lecture Notes and Commentaries)  
-**c. 390–410 CE**  
-A collection of teaching material related to Apollonius' work on conic sections. These insights helped maintain the continuity of Greek geometry into the late antiquity period.  
-**DOI:** [10.1234/hypatia.conics.0410](https://doi.org/10.1234/hypatia.conics.0410)
-
----
-
-### 🧭 *Treatise on the Construction and Use of the Astrolabe*  
-**c. 400 CE**  
-A practical manual for students and scholars detailing how to build and use the astrolabe for celestial observations and timekeeping. Co-developed with her students at the School of Alexandria.  
-**DOI:** [10.1234/hypatia.astrolabe.0400](https://doi.org/10.1234/hypatia.astrolabe.0400)
-
----
-
-### 🧪 *Notes on the Hydrometer and Fluid Measurement*  
-**c. 405 CE**  
-A technical explanation of the hydrometer, used for determining the density of liquids. Likely contributed to advancements in both physics and engineering education.  
-**DOI:** [10.1234/hypatia.hydrometer.0405](https://doi.org/10.1234/hypatia.hydrometer.0405)
-
----
-
-> 🏛 *“Although my original manuscripts have not survived the centuries, my influence endures through the knowledge passed on to my students and successors.”*
+🔗 **[My publications on arXiv]([https://arxiv.org/a/[your_arxiv_id].html](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3Aastronomy&q=author%3A%22Mascia%2C%20Sara%22&sort=date%20desc%2C%20bibcode%20desc&p_=0))**  
+A complete collection of my preprints and open-access contributions.
 
 ---
 
