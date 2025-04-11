@@ -12,13 +12,9 @@ cover-img:
 
 # About me
 
-Greetings! I’m **Hypatia of Alexandria** (c. 360–415 CE), a philosopher, mathematician, and astronomer living in Roman Egypt. I lead the Neoplatonist school in Alexandria, where I teach mathematics, astronomy, and philosophy. My work builds on the legacies of thinkers like Ptolemy and Plotinus, and I strive to inspire others through reason, observation, and the pursuit of wisdom.
+Greetings! I am Sara Mascia, an Italian astronomer and ISTA Fellow at the Institute of Science and Technology Austria. My research focuses on understanding the role of galaxies in cosmic reionization, combining observations from state-of-the-art facilities like the James Webb Space Telescope (JWST) to explore the early universe and galaxy evolution.
 
-I’ve edited and commented on seminal works such as *Ptolemy’s Almagest* and *Diophantus’ Arithmetica*, and I’ve developed instruments like the astrolabe and hydrometer with my students.
-
-When I’m not lecturing at the Museion or engaging in scholarly debate, I enjoy stargazing and exploring the mathematical harmony of the cosmos.
-
-![Hypatia of Alexandria](assets/images/file-hypatia-by-julius-kronberg-1889-1608099105.jpg)
+![Hypatia of Alexandria](assets/images/sm.jpeg)
 
 ## Connect with Me
 
