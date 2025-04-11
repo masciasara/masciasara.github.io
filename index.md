@@ -24,7 +24,7 @@ My research focuses on understanding the role of galaxies in cosmic reionization
 
 - 📧 [sara.mascia@ista.ac.at](mailto:sara.mascia@ista.ac.at)
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9572-7813](https://orcid.org/0000-0002-9572-7813)
-- [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) masciasara](https://github.com/masciasara)
+- [![GitHub logo](https://cdn.worldvectorlogo.com/logos/github-icon-2.svg) masciasara](https://github.com/masciasara)
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem; margin-bottom: 2rem;">
   <img src="/assets/images/little-prince-flower.png" alt="The Little Prince flower" style="width: 120px; height: auto; border-radius: 12px;">
