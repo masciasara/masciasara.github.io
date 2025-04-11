@@ -62,7 +62,7 @@ social-network-links:
 page-col: "#1b2021"
 text-col: "#ffd9da"
 link-col: "#89023e"
-hover-col: "#0085A1"
+hover-col: "#ffd9da"
 navbar-col: "#ffd9da"
 navbar-text-col: "#b892ff"
 navbar-border-col: "#DDDDDD"
