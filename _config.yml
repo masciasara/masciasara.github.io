@@ -62,13 +62,13 @@ social-network-links:
 page-col: "#000000"
 text-col: "#ffe7e9"
 link-col: "#f6abc2"
-hover-col: "#faedcd"
-navbar-col: "#a0c565"
+hover-col: "#f6abc2"
+navbar-col: "#faedcd"
 navbar-text-col: "#000000"
-navbar-border-col: "#a0c565"
+navbar-border-col: "#faedcd"
 footer-col: "#a0c565"
 footer-text-col: "#000000"
-footer-link-col: "#faedcd"
+footer-link-col: "#f6abc2"
 footer-hover-col: "#000000"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
