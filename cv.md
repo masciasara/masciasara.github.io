@@ -5,8 +5,6 @@ share-title: "Sara Mascia - CV"
 permalink: /CV/
 ---
 
-# CV
-
 Here’s my CV for more details on my professional background and experience.
 
 ---
