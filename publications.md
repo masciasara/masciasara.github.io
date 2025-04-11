@@ -11,11 +11,9 @@ You can find a comprehensive list of my scientific work through the following re
 
 ---
 
-📄 <a href="/assets/files/CV_SaraMascia.pdf" download>Download my CV (PDF)</a>  
-An up-to-date summary of my academic background and research.
-
 📘 <a href="/assets/files/PhD_Thesis_SM_compressed.pdf" download>Read my PhD Thesis (PDF)</a>  
-*Tracing the properties of Lyman continuum emitting galaxies over cosmic epochs*  
+*Tracing the properties of Lyman continuum emitting galaxies over cosmic epochs* under supervision of Prof. **Laura Pentericci** and Dr. **Marco
+Castellano**
 University of Rome "Tor Vergata" with the collaboration of the University of Rome "Sapienza" and the National Institute of Astrophysics (INAF), 2024
 
 🔗 [My publications on arXiv](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3Aastronomy&q=author%3A%22Mascia%2C%20Sara%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) <br>
