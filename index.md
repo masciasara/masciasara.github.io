@@ -22,4 +22,6 @@ Greetings! I am Sara Mascia, an Italian astronomer and ISTA Fellow at the Instit
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9572-7813](https://orcid.org/0000-0002-9572-7813)
 - [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) masciasara](https://github.com/masciasara)
 
+> “Reserve your right to think, for even to think wrongly is better than not to think at all.”
+
 ---
