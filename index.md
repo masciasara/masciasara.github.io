@@ -12,7 +12,7 @@ cover-img:
 
 # About me
 
-Hello there! I am <strong>Sara Mascia<strong>, an Italian astronomer and ISTA Fellow at the Institute of Science and Technology Austria. Born in sunny Cagliari, Sardinia, I completed a Bachelor's in Physics at the University of Cagliari and a Master's in Astrophysics and Space Physics at the University of Milano-Bicocca.
+Hello there! I am **Sara Mascia**, an Italian astronomer and ISTA Fellow at the Institute of Science and Technology Austria. Born in sunny Cagliari, Sardinia, I completed a Bachelor's in Physics at the University of Cagliari and a Master's in Astrophysics and Space Physics at the University of Milano-Bicocca.
 
 In 2024, I obtained my PhD in Astronomy, Astrophysics, and Space Science from the University of Rome “Tor Vergata”, in collaboration with the University of Rome “Sapienza” and the National Institute for Astrophysics (INAF).
 
