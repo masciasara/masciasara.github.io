@@ -1,9 +1,9 @@
 ---
 layout: home
 
-title: "Hypatia of Alexandria"
-subtitle: Astronomer, Philosopher, Mathematician
-share-title: "Hypatia of Alexandria - Home"
+title: Sara Mascia"
+subtitle: Astronomer, ISTA prize fellow
+share-title: "Sara Mascia - Home"
 share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
 support-promo-box: true
 cover-img:
