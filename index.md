@@ -4,7 +4,7 @@ layout: home
 title: "Sara Mascia"
 subtitle: Astronomer, ISTA prize fellow
 share-title: "Sara Mascia - Home"
-share-description: "Ancient scientist, educator, and philosopher from Alexandria. Passionate about mathematics, astronomy, and the pursuit of knowledge."
+share-description: "Italian astronomer."
 support-promo-box: true
 cover-img:
     - "assets/images/webb-uncovers-new-deta.jpg"
