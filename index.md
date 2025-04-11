@@ -14,7 +14,7 @@ cover-img:
 
 Greetings! I am Sara Mascia, an Italian astronomer and ISTA Fellow at the Institute of Science and Technology Austria. My research focuses on understanding the role of galaxies in cosmic reionization, combining observations from state-of-the-art facilities like the James Webb Space Telescope (JWST) to explore the early universe and galaxy evolution.
 
-![Hypatia of Alexandria](assets/images/sm.jpeg)
+<img src="assets/images/sm.jpeg" alt="Sara Mascia" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 1rem auto;">
 
 ## Connect with Me
 
