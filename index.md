@@ -4,7 +4,7 @@ layout: home
 title: "Sara Mascia"
 subtitle: Astronomer, ISTA prize fellow
 share-title: "Sara Mascia - Home"
-share-description: "Italian astronomer."
+share-description: "Italian astronomer, ISTA fellow in J. Matthee EXGAL-group."
 support-promo-box: true
 cover-img:
     - "assets/images/webb-uncovers-new-deta.jpg"
@@ -26,6 +26,14 @@ My research focuses on understanding the role of galaxies in cosmic reionization
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9572-7813](https://orcid.org/0000-0002-9572-7813)
 - [![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/16px-Octicons-mark-github.svg.png) masciasara](https://github.com/masciasara)
 
-> “If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...” ― Antoine de Saint-Exupéry, The Little Prince
+<div style="display: flex; align-items: center; gap: 1rem; margin-top: 2rem; margin-bottom: 2rem;">
+  <img src="/assets/images/little-prince-flower.png" alt="The Little Prince flower" style="width: 120px; height: auto; border-radius: 12px;">
+  <blockquote style="margin: 0; font-style: italic;">
+    “If you love a flower that lives on a star, it is sweet to look at the sky at night.  
+    All the stars are a-bloom with flowers...”  
+    <br>— Antoine de Saint-Exupéry, <em>The Little Prince</em>
+  </blockquote>
+</div>
+
 
 ---
