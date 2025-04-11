@@ -20,7 +20,7 @@ My research focuses on understanding the role of galaxies in cosmic reionization
 
 <img src="assets/images/sm.jpeg" alt="Sara Mascia" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 1rem auto;">
 
-## Connect with Me
+## Connect with me
 
 - 📧 [sara.mascia@ista.ac.at](mailto:sara.mascia@ista.ac.at)
 - [![ORCID logo](https://orcid.org/sites/default/files/images/orcid_16x16.png) 0000-0002-9572-7813](https://orcid.org/0000-0002-9572-7813)
