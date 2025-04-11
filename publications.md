@@ -11,10 +11,10 @@ You can find a comprehensive list of my scientific work through the following re
 
 ---
 
-📄 **[Download my CV (PDF)](https://github.com/masciasara/masciasara.github.io/tree/main/assets/files/CV_SaraMascia.pdf)**  
+📄 **[Download my CV (PDF)]([https://arxiv.org/a/[your_arxiv_id].html](https://github.com/masciasara/masciasara.github.io/tree/main/assets/files/CV_SaraMascia.pdf))**  
 An up-to-date summary of my academic background and research.
 
-📘 **[Download my PhD Thesis (PDF)](https://github.com/masciasara/masciasara.github.io/tree/main/assets/files/PhD_Thesis_SM_compressed.pdf)**  
+📘 **[Download my PhD Thesis (PDF)]([https://arxiv.org/a/[your_arxiv_id].html](https://github.com/masciasara/masciasara.github.io/tree/main/assets/files/PhD_Thesis_SM_compressed.pdf))**  
 *Tracing the properties of Lyman continuum emitting galaxies over cosmic epochs*  
 University of Rome "Tor Vergata" with the collaboration of the University of Rome "Sapienza" and the National Institute of Astrophysics (INAF), 2024
 
