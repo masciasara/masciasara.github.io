@@ -11,10 +11,10 @@ You can find a comprehensive list of my scientific work through the following re
 
 ---
 
-📄 <a href="/assets/files/CV_SaraMascia.pdf" download>Download my CV (PDF)</a>  
+📄 <a href="/assets/files/CV_SaraMascia.pdf" download>**[Download my CV (PDF)]</a>  
 An up-to-date summary of my academic background and research.
 
-📘 <a href="/assets/files/PhD_Thesis_SM_compressed.pdf" download>Read my PhD Thesis (PDF)</a>  
+📘 <a href="/assets/files/PhD_Thesis_SM_compressed.pdf" download>**[Read my PhD Thesis (PDF)]</a>  
 *Tracing the properties of Lyman continuum emitting galaxies over cosmic epochs*  
 University of Rome "Tor Vergata" with the collaboration of the University of Rome "Sapienza" and the National Institute of Astrophysics (INAF), 2024
 
