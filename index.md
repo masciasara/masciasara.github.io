@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: "Sara Mascia"
+title: "Sara Mascia, PhD"
 subtitle: Astronomer, ISTA prize fellow
 share-title: "Sara Mascia - Home"
 share-description: "Italian astronomer, ISTA fellow in J. Matthee EXGAL-group."
