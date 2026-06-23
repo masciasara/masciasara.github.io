@@ -87,7 +87,7 @@ main { flex: 1; }
 }
 
 .hero-text {
-  padding: 2rem 3rem 4rem 2.5rem;
+  padding: 2rem 4rem 4rem 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -114,7 +114,7 @@ main { flex: 1; }
   color: #444;
   margin-bottom: 2.5rem;
 }
-.hero-bio p { color: #666; font-size: 0.93rem; max-width: 500px; }
+.hero-bio p { color: #666; font-size: 0.88rem; }
 .hero-bio a { color: #888; }
 .hero-bio a:hover { color: #ccc; }
 .hero-bio ul { list-style: none; padding: 0; }
