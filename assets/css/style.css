@@ -127,11 +127,12 @@ main { flex: 1; }
 }
 
 .hero-image {
-  height: auto;
-  border-left: none;
-  border-bottom: 0.5px solid #222;
-  order: -1;
-  padding: 1.5rem;
+  background: #000;
+  border-left: 0.5px solid #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
 }
 
 .hero-image img {
