@@ -127,21 +127,18 @@ main { flex: 1; }
 }
 
 .hero-image {
-  background: #000;
-  border-left: 0.5px solid #222;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
+  height: auto;
+  border-left: none;
+  border-bottom: 0.5px solid #222;
+  order: -1;
+  padding: 1.5rem;
 }
 
 .hero-image img {
   width: 100%;
-  max-width: 420px;
+  max-width: 340px;
   height: auto;
-  opacity: 0.88;
-  filter: grayscale(0%);
-  border-radius: 0px;
+  border-radius: 2px;
 }
 
 /* ── Page content ── */
