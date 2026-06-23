@@ -36,7 +36,7 @@ JWST has transformed this field, allowing us to observe galaxies in the first bi
 
 ## My contribution
 
-My research focuses on identifying and characterizing the galaxies most likely to have driven reionization — compact, luminous sources with high ionizing photon escape fractions.
+My research focuses on identifying and characterizing the galaxies most likely to have driven reionization.
 
 → [Lyman continuum leakers](/research/lyman-continuum) — the galaxies that let ionizing light escape
 
