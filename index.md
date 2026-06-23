@@ -10,4 +10,4 @@ I am Sara Mascia (she/her), an Italian astronomer and ISTA Prize Fellow at the I
 
 My research focuses on the epoch of reionization: the moment the first galaxies turned on and changed everything around them. I use space- and ground-based telescopes to find those sources, study their light, understand how it escaped. It is, I think, one of the most beautiful problems in astrophysics.
 
-She is still there, that five-year-old with her neck craned toward the sky. I just have better instruments now —- and the extraordinary luck of doing this alongside people I learn from every single day.
+She is still there, that five-year-old with her neck craned toward the sky. I just have better instruments now -- and the extraordinary luck of doing this alongside people I learn from every single day.
