@@ -2,8 +2,12 @@
 layout: home
 ---
 
-Hello there! I am **Sara Mascia** (she/her), an Italian astronomer and ISTA Fellow at the Institute of Science and Technology Austria, affiliated with the Matthee Group. Born in sunny Cagliari, Sardinia, I completed a Bachelor's in Physics at the University of Cagliari, and a Master's in Astrophysics and Space Physics at the University of Milano-Bicocca.
+I have wanted to be an astronomer since I was five years old. My father held my hand, pointed at the stars, and started talking about them -- and I felt something I still haven't found the words for: being infinitely small, and at the same time, the center of the universe.
 
-In 2024, I obtained my PhD in Astronomy, Astrophysics, and Space Science from the University of Rome "Tor Vergata", in collaboration with the University of Rome "Sapienza" and the National Institute for Astrophysics (INAF).
+That feeling never left. It just became a career.
 
-My research focuses on understanding the role of galaxies in cosmic reionization, combining observations from state-of-the-art facilities like the James Webb Space Telescope (JWST) to explore the early Universe and galaxy evolution.
+I am Sara Mascia (she/her), an Italian astronomer and ISTA Prize Fellow at the Institute of Science and Technology Austria, working with the Matthee Group. I grew up in Cagliari, Sardinia, studied in Milan, and completed my PhD in Rome in 2024 under the supervision of Prof. Laura Pentericci.
+
+My research focuses on the epoch of reionization: the moment the first galaxies turned on and changed everything around them. I use space- and ground-based telescopes to find those sources, study their light, understand how it escaped. It is, I think, one of the most beautiful problems in astrophysics.
+
+She is still there, that five-year-old with her neck craned toward the sky. I just have better instruments now —- and the extraordinary luck of doing this alongside people I learn from every single day.
