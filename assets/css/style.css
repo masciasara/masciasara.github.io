@@ -86,7 +86,7 @@ main { flex: 1; }
   min-height: calc(100vh - 56px);
 }
 .hero-text {
-  padding: 4rem 3rem 4rem 2.5rem;
+  padding: 2rem 3rem 4rem 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -127,7 +127,7 @@ main { flex: 1; }
 
 /* ── Hero image ── */
 .hero-image {
-  background: #0f0f0f;
+  background: #000;
   border-left: 0.5px solid #222;
   display: flex;
   align-items: center;
@@ -140,8 +140,8 @@ main { flex: 1; }
   object-fit: cover;
   object-position: center top;
   opacity: 0.88;
-  filter: grayscale(100%);
-  border-radius: 2px;
+  filter: grayscale(0%);
+  border-radius: 0px;
 }
 
 /* ── Page content ── */
