@@ -6,14 +6,11 @@ url: "https://masciasara.github.io"
 github_username: masciasara
 keywords: "astronomy,reionization,galaxies,jwst,mascia"
 
-# Build settings
 plugins:
   - jekyll-sitemap
   - jekyll-feed
 
 exclude:
-  - CHANGELOG.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
