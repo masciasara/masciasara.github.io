@@ -10,11 +10,11 @@ My work focuses on the **epoch of reionization** -- the first billion years of t
 
 I study the sources that drove this transformation, whose ionizing light escaped into the intergalactic medium and reshaped it.
 
-→ [Cosmic reionization](/research/reionization)
+→ [Cosmic reionization](reionization)
 
-→ [Lyman continuum leakers](/research/lyman-continuum)
+→ [Lyman continuum leakers](lyman-continuum)
 
-→ [Compact broad-line emitters](/research/broad-line-emitters)
+→ [Compact broad-line emitters](broad-line-emitters)
 
 ## Teaching & mentorship
 
