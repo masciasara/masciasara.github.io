@@ -60,17 +60,17 @@ social-network-links:
 #  whatsapp: 15551212
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-page-col: "#000000"
-text-col: "#ffe7e9"
-link-col: "#f6abc2"
-hover-col: "#f6abc2"
-navbar-col: "#faedcd"
-navbar-text-col: "#000000"
-navbar-border-col: "#faedcd"
-footer-col: "#faedcd"
-footer-text-col: "#000000"
-footer-link-col: "#f6abc2"
-footer-hover-col: "#000000"
+page-col: "#0a0e14"
+text-col: "#d4dce8"
+link-col: "#7aaad4"
+hover-col: "#a0c0e0"
+navbar-col: "#0d1320"
+navbar-text-col: "#d4dce8"
+navbar-border-col: "#1e2a3a"
+footer-col: "#0d1320"
+footer-text-col: "#d4dce8"
+footer-link-col: "#3a6090"
+footer-hover-col: "#7aaad4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
