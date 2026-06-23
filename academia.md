@@ -30,4 +30,4 @@ I am interested in science communication that is honest about both the beauty an
 
 ## Beyond the paper
 
-I also write outside of astronomy — you can find me at [lowercase](https://lowercasepages.wordpress.com/), where I explore love, loss, and everything in between.
+Science is one way I understand the world. Writing is another. The version of me that lives outside the papers is at [lowercase](https://lowercasepages.wordpress.com/).
