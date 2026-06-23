@@ -1,16 +1,43 @@
----
-layout: default
----
-<div class="hero">
-  <div class="hero-text">
-    <div class="hero-eyebrow">ISTA Prize Fellow · Astronomer</div>
-    <h1 class="hero-name">Sara<br>Mascia</h1>
-    <p class="hero-title">PhD</p>
-    <div class="hero-bio">
-      {{ content }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — Sara Mascia{% else %}Sara Mascia{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Personal website of Sara Mascia, astronomer, ISTA Prize Fellow.{% endif %}">
+  <meta name="keywords" content="astronomy,reionization,galaxies,jwst,mascia">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+  <nav>
+    <a class="nav-brand" href="/">Sara Mascia</a>
+    <button class="nav-toggle" aria-label="Toggle menu" onclick="document.querySelector('nav ul').classList.toggle('open')">☰</button>
+    <ul>
+      <li><a href="/" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+      <li><a href="/CV" {% if page.url contains 'CV' %}class="active"{% endif %}>CV</a></li>
+      <li><a href="/Publications" {% if page.url contains 'Publications' %}class="active"{% endif %}>Publications</a></li>
+      <li><a href="/academia" {% if page.url contains 'academia' %}class="active"{% endif %}>Academia</a></li>
+      <li><a href="https://lowercasepages.wordpress.com/" target="_blank" rel="noopener">Writing ↗</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <span>© {{ 'now' | date: "%Y" }} Sara Mascia</span>
+    <div class="footer-links">
+      <a href="mailto:sara.mascia@ista.ac.at">Email</a>
+      <a href="https://github.com/masciasara" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://orcid.org/0000-0002-9572-7813" target="_blank" rel="noopener">ORCID</a>
+      <a href="https://lowercasepages.wordpress.com/" target="_blank" rel="noopener">lowercase ↗</a>
     </div>
-  </div>
-  <div class="hero-image">
-    <img src="/assets/images/sm.jpeg" alt="Sara Mascia">
-  </div>
-</div>
+  </footer>
+
+</body>
+</html>
