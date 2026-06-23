@@ -25,7 +25,7 @@ Feel free to [reach out](mailto:sara.mascia@ista.ac.at) about research projects,
 ## Science communication
 
 The Universe is extraordinary, and I think everyone deserves access to that wonder -- not just those with a physics degree.
-I am part of the ISTA Astro Club, doing outreach and public engagement at the Institute. In 2027, I will travel to Rwanda to teach astronomy to children — because the sky belongs to everyone, and curiosity doesn't need a passport.
+I am part of the ISTA Astro Club, doing outreach and public engagement at the Institute. In 2027, I will travel to Rwanda to teach astronomy to children -- because the sky belongs to everyone, and curiosity doesn't need a passport.
 I am interested in science communication that is honest about both the beauty and the difficulty of research: the dead ends, the uncertainty, the humanity behind the data.
 
 ## Beyond the paper
