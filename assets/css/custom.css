@@ -1,11 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500&display=swap');
 
-h1, h2, h3, .site-title {
+h1, h2, h3, h4, .navbar-brand {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 500;
 }
 
-body, p, li, a {
+body, p, li, a, .navbar-nav {
   font-family: 'Inter', sans-serif;
   font-weight: 300;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  letter-spacing: 0.04em;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+hr {
+  border-color: #1e2a3a;
+}
+
+blockquote {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  color: #3a5878;
+  border-left-color: #1e2a3a;
 }
