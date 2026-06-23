@@ -82,7 +82,7 @@ main { flex: 1; }
 /* ── Hero ── */
 .hero {
   display: grid;
-  grid-template-columns: 1fr 360px;
+  grid-template-columns: 1.6fr 300px;
   min-height: calc(100vh - 56px);
 }
 .hero-text {
