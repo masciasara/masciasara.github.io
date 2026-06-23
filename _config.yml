@@ -1,87 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Sara Mascia
 email: sara.mascia@ista.ac.at
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Sara Mascia, astronomer, ISTA Prize Fellow.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  masciasara
-custom-css: ["/assets/css/custom.css"]
+description: Personal website of Sara Mascia, astronomer, ISTA Prize Fellow.
+baseurl: ""
+url: "https://masciasara.github.io"
+github_username: masciasara
+keywords: "astronomy,reionization,galaxies,jwst,mascia"
+
 # Build settings
-# theme: minima
-remote_theme: daattali/beautiful-jekyll@6.0.1
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 
-# INDEX
-index_page: "about-me"
-
-# Navigation bar links
-navbar-links:
-  Home: "/"
-  Curriculum Vitae: "CV"
-  Publications: "Publications"
-  Academia: "academia"
-  Writing: "https://lowercasepages.wordpress.com/"
-  
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/images/avatar.jpeg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "sara.mascia@ista.ac.at"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# facebook: hypatiarules
-  github: masciasara
-# twitter: xx
-#  patreon: DeanAttali
-#  youtube: "@daattali"
-#  whatsapp: 15551212
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-page-col: "#0a0e14"
-text-col: "#d4dce8"
-link-col: "#7aaad4"
-hover-col: "#a0c0e0"
-navbar-col: "#0d1320"
-navbar-text-col: "#d4dce8"
-navbar-border-col: "#1e2a3a"
-footer-col: "#0d1320"
-footer-text-col: "#d4dce8"
-footer-link-col: "#3a6090"
-footer-hover-col: "#7aaad4"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-
-# Exclude these files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -91,33 +20,3 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  
-  
-keywords: "astronomy,reionization,galaxies,jwst,mascia"
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
